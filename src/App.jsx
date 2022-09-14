@@ -5,8 +5,8 @@ import React from 'react'
 function App() {
   return (
     <div className="App">
-      <Contact lastName="Lacabanne "  firstName="Adeline " isLoggedIn = {true}></Contact>
-      <Contact lastName="Bordenave " firstName="Marion " isLoggedIn = {false}></Contact>
+      <Contact lastName="Lacabanne "  firstName="Adeline " isLoggedIn = {true} />
+      <Contact lastName="Bordenave " firstName="Marion " isLoggedIn = {false} />
     </div>
   )
 }
